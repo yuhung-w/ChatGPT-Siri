@@ -6,11 +6,9 @@
 
 点击下面链接下载快捷指令
 
-## 智能聊天
+- [Shortcuts](https://www.icloud.com/shortcuts/0de004de8fc64502a5cf1c6241c20edb)
 
 自动保存聊天数据到 txt 文件中，记录包含每次对话的发送和接收时间、tokens 消耗统计，打开「文件」app，找到：iCloud 云盘/Shortcuts/ChatGPT-log 目录即可查看，支持 iCloud 同步。
-
-- [Shortcuts](https://www.icloud.com/shortcuts/0de004de8fc64502a5cf1c6241c20edb)
 
 # 微信群交流
 

@@ -6,15 +6,9 @@
 
 点击下面链接下载快捷指令
 
-## 智能聊天 1.0
+## 智能聊天
 
-- [简体中文版](https://www.icloud.com/shortcuts/4faa53c985634939a1cdf45291547407)
-
-## 智能聊天 1.1 （推荐安装1.2版本保存到文件更方便）
-
--：支持自动保存聊天记录到「备忘录」app
-
--：自动保存聊天数据到 txt 文件中，记录包含每次对话的发送和接收时间、tokens 消耗统计，打开「文件」app，找到：iCloud 云盘/Shortcuts/ChatGPT-log 目录即可查看，支持 iCloud 同步。
+自动保存聊天数据到 txt 文件中，记录包含每次对话的发送和接收时间、tokens 消耗统计，打开「文件」app，找到：iCloud 云盘/Shortcuts/ChatGPT-log 目录即可查看，支持 iCloud 同步。
 
 - [简体中文版](https://www.icloud.com/shortcuts/4faa53c985634939a1cdf45291547407)
 

@@ -14,7 +14,7 @@
 
 # 微信群交流
 
-<img src="img/wx-group1.jpg" width="300"/>
+<img src="./image-group1.jpg" width="300"/>
 
 # API key 获取
 
@@ -32,7 +32,7 @@
 
 打开「快捷指令」app，找到下载的「智能聊天」快捷指令，长按选择「编辑」，将上面的 API key 粘贴到下面文本框中。
 
-<img src="img/replace-api-key-cn.png" width="500"/>
+<img src="./image2.jpg" width="500"/>
 
 > 注意：国内已经不能访问 api 了，需要开代理！
 
@@ -60,7 +60,7 @@
 
 修改方法，编辑「快捷指令」，往下滑，找到如图所示位置：
 
-<img src="img/system-message-cn.png" width="500"/>
+<img src="./image3.jpg" width="500"/>
 
 比如，你可以用下面的内容替换系统消息：
 
